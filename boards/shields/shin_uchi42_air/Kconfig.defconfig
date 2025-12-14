@@ -1,4 +1,4 @@
-if SHIN_UCHI42_AIR_LEFT
+if SHIN_UCHI42_AIR_RIGHT
 
 config ZMK_KEYBOARD_NAME
     default "Shin-Uchi42 Air"
