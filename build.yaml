@@ -27,3 +27,7 @@ include:
   # --- 通常ファームウェア（右） ---
   - board: seeeduino_xiao_ble
     shield: shin_uchi42_air_right
+
+  # --- リセット用ファームウェア（共通） --
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
