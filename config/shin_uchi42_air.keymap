@@ -39,10 +39,10 @@
 
         default {
             bindings = <
-        &kp W      &kp E             &kp R             &kp T             &kp Y       &kp U     &kp I              &kp O             &kp P          &kp P
-&kp Q   &kp S      &kp D             &mt LEFT_SHIFT F  &mt LEFT_SHIFT G  &kp H       &kp J     &mt RIGHT_SHIFT K  &mt RSHIFT L      &kp SEMICOLON  &kp H  &kp COLON
-&kp A   &kp Z      &kp X             &kp C             &kp V             &kp B       &kp N     &kp M              &kp M             &kp J          &kp B  &kp ENTER
-&tog 4  &kp LC(S)  &mt LEFT_ALT ESC  &lt 1 LANG2       &mt LCTRL SPACE   &kp DELETE  &kp BSPC  &mt RCTRL ENTER    &lt 3 LANGUAGE_1  &kp LEFT_WIN   &mo 5  &bt BT_NXT
+        &kp Q      &kp W             &kp E        &kp R            &kp T       &kp Y     &kp U            &kp I             &kp O         &kp P
+&kp Q   &kp A      &kp S             &kp D        &kp F            &kp G       &kp H     &kp J            &kp K             &kp L         &kp SEMI  &kp COLON
+&kp A   &kp Z      &kp X             &kp C        &kp V            &kp B       &kp N     &kp M            &kp COMMA         &kp DOT       &kp FSLH  &kp ENTER
+&tog 4  &kp LC(S)  &mt LEFT_ALT ESC  &lt 1 LANG2  &mt LCTRL SPACE  &kp DELETE  &kp BSPC  &mt RCTRL ENTER  &lt 3 LANGUAGE_1  &kp LEFT_WIN  &mo 5     &bt BT_NXT
             >;
         };
 
